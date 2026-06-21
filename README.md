@@ -24,7 +24,7 @@ A classic Tic Tac Toe game built in Python. Play against another player in the t
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Kotelaa/Tic_tac_toe.git
+git clone https://github.com/Kotelaa/tic_tac_toe
 cd Tic_tac_toe
 ```
 
